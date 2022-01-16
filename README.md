@@ -1,5 +1,13 @@
 # voiceflow-twilio
 
+# ** このレポジトリはアーカイブされています / This repository has been archived **
+
+**Dialog Management APIができたので、Voiceflow SDKはobsoletedとなったそうです。本レポジトリのコードは動かない可能性がありますのでアーカイブしました。（Dialog Management APIにあわせた新しいSDKがそのうちリリースされるらしいです。）**
+
+**This repository has been archived because Voiceflow SDK has been replaced with Dialog Management API and obsoleted now. These codes may not work. (I heard that a New SDK suitable for Dialog Management API will be released in future.) **
+
+## About
+
 Voiceflow SDKを使った、Twilio IVRチャットボットのサンプルです。
 
 demo for node.js/express server for running a Twilio IVR chatbot with Voiceflow SDK.
